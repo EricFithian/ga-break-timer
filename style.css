@@ -28,6 +28,8 @@ input {
 
 h2 {
     font-size: 4em;
+    color: white;
+    margin-top: 20px;
 }
 
 .buttons {
